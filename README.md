@@ -46,6 +46,10 @@ These findings highlight both behavioral and infrastructural issues that contrib
 
 ## Visualization and Analysis:
 
+![](https://github.com/Jessiejones08/NYC-COLLISION-DASHBOARD/blob/main/NYC%20collision%20dashboard.png)
+![](https://github.com/Jessiejones08/NYC-COLLISION-DASHBOARD/blob/main/NYC%20collision%20dashboard%202.png)
+![](https://github.com/Jessiejones08/NYC-COLLISION-DASHBOARD/blob/main/NYC%20collision%20dashboard%203.png)
+
 
 - Volume of Collisions: On average, there are over 10,000 reported collisions per month across NYC.
 
