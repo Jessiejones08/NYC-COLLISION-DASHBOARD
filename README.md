@@ -33,13 +33,13 @@ The New York City (NYC) Collision Dataset provides detailed records of motor veh
 
 Analysis of the NYC Collision Dataset reveals key trends and insights:
 
-- Peak Collision Times: Most accidents occur during rush hours (morning and evening), with weekends often showing a slight decrease in incidents.
+- Peak Collision Times: Most accidents occur during rush hours (morning and evening), with weekends often showing a slight increase in incidents.
 
-- High-Risk Locations: Intersections in busy boroughs such as Brooklyn, Queens, and Manhattan consistently record higher collision counts.
+- High-Risk Locations: Intersections in busy boroughs such as Brooklyn, Queens, and Bronx consistently record higher collision counts.
 
 - Common Contributing Factors: Driver inattention/distraction, failure to yield right-of-way, and unsafe speed are among the leading reported causes.
 
-- Impact on Victims: The majority of incidents result in property damage only, but there are still significant numbers of injuries and a smaller proportion of fatalities each year.
+- Impact on Victims: The majority of incidents result in property damage only, but there are still a high significant number of injuries and a smaller proportion of fatalities each year.
 
 
 These findings highlight both behavioral and infrastructural issues that contribute to collisions in NYC.
@@ -51,7 +51,7 @@ These findings highlight both behavioral and infrastructural issues that contrib
 ![](https://github.com/Jessiejones08/NYC-COLLISION-DASHBOARD/blob/main/NYC%20collision%20dashboard%203.png)
 
 
-- Volume of Collisions: On average, there are over 10,000 reported collisions per month across NYC.
+- Volume of Collisions: On average, there are over 10,000 reported collisions per month across NYC. With March showing 10.53%
 
 - Peak Collision Times: Most collisions occur during rush hours — 7-9 AM and 4-7 PM — with an additional spike around late-night hours on weekends.
 
@@ -59,13 +59,11 @@ These findings highlight both behavioral and infrastructural issues that contrib
 
 - Contributing Factors:
 
--- Driver inattention/distraction accounts for ~30% of all crashes.
+- Driver inattention/distraction accounts for 30% of all crashes.
 
--- Failure to yield right-of-way and unsafe speed are the next most common causes.
+-  Failure to yield right-of-way and following too closely are the next most common causes.
 
 - Victim Impact:
-
-Around 85–90% of collisions result in property damage only.
 
 8–10% involve injuries, and less than 1% result in fatalities each year.
 
